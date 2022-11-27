@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eslam Mustafa Abu Mandour
-- 👀 I’m interested in Automation with Python
-- 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on python Projects
+- 👀 I’m interested in Automation with Python, and js.
+- 🌱 I’m currently learning Automation, Web Devolopment with js.
 - 📫 How to reach me #E-Mail: Eslaam.Mustafa@Gmail.com
 
 <!---
