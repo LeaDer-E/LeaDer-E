@@ -1,5 +1,3 @@
-- 📫 How to reach me #E-Mail: Eslaam.Mustafa@Gmail.com
-
 <!---
 LeaDer-E/LeaDer-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -54,3 +52,28 @@ git clone https://github.com/LeaDer-E/<project-name>
 cd <project-name>
 pip install -r requirements.txt
 python main.py
+```
+
+Check the individual README files in each repo for specific instructions.
+
+---
+
+## 🤝 Contributions
+
+I'm always open to collaboration or feedback. Feel free to:
+
+- Fork and star my repos
+- Open issues or pull requests
+- Suggest improvements
+
+---
+
+## 📬 Contact Me
+
+- GitHub: [LeaDer-E](https://github.com/LeaDer-E)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/leader-e)
+- Email: [E-mail Me](Eslaam.Mustafa@Gmail.com)
+
+---
+
+⭐️ Thank you for visiting my profile!
