@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LeaDer-E&show_icons=true&hide_border=true&count_private=true&bg_color=111821&title_color=22d3ee&text_color=e6edf3&icon_color=fbbf24&ring_color=22d3ee"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaDer-E&layout=compact&hide_border=true&langs_count=8&bg_color=111821&title_color=22d3ee&text_color=e6edf3"/>
+<img height="165" src="https://streak-stats.demolab.com?user=LeaDer-E&hide_border=true&background=111821&stroke=1f2a37&ring=22d3ee&fire=fbbf24&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=22d3ee&sideLabels=8b98a5&dates=8b98a5"/>
+<img src="https://img.shields.io/github/followers/LeaDer-E?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=111821&color=22d3ee"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeaDer-E&bg_color=0b0f14&color=22d3ee&line=22d3ee&point=fbbf24&area=true&area_color=22d3ee&hide_border=true&title_color=22d3ee"/>
 
