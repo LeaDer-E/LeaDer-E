@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<rect x="1" y="1" width="258" height="54" rx="12" fill="#111821" stroke="#34d399" stroke-width="2"/>
+<rect x="1" y="1" width="258" height="54" rx="12" fill="#34d399" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="3s" repeatCount="indefinite"/></rect>
+<text x="30" y="35" font-size="20" fill="#34d399">☏</text>
+<text x="62" y="34" font-size="15" font-weight="700" fill="#e6edf3" letter-spacing="2">WHATSAPP</text></svg>

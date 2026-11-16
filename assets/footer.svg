@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<defs><clipPath id="c"><rect width="900" height="80"/></clipPath></defs>
+<g clip-path="url(#c)"><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-180 0" dur="3s" repeatCount="indefinite"/>
+<path d="M0 40 Q45 26 90 40 Q135 54 180 40 Q225 26 270 40 Q315 54 360 40 Q405 26 450 40 Q495 54 540 40 Q585 26 630 40 Q675 54 720 40 Q765 26 810 40 Q855 54 900 40 Q945 26 990 40 Q1035 54 1080 40 Q1125 26 1170 40 Q1215 54 1260 40 Q1305 26 1350 40 Q1395 54 1440 40 Q1485 26 1530 40 Q1575 54 1620 40 Q1665 26 1710 40 Q1755 54 1800 40" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.8"/>
+<path d="M0 40 Q45 26 90 40 Q135 54 180 40 Q225 26 270 40 Q315 54 360 40 Q405 26 450 40 Q495 54 540 40 Q585 26 630 40 Q675 54 720 40 Q765 26 810 40 Q855 54 900 40 Q945 26 990 40 Q1035 54 1080 40 Q1125 26 1170 40 Q1215 54 1260 40 Q1305 26 1350 40 Q1395 54 1440 40 Q1485 26 1530 40 Q1575 54 1620 40 Q1665 26 1710 40 Q1755 54 1800 40" fill="none" stroke="#fbbf24" stroke-width="2" opacity="0.4" transform="translate(45 6)"/></g></g>
+<text x="450" y="100" text-anchor="middle" font-size="14" fill="#8b98a5" letter-spacing="2">BUILT WITH CURIOSITY  ·  AUTOMATED WITH INTENT</text></svg>

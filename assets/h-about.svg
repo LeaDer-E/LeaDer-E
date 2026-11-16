@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<text x="0" y="40" font-size="14" fill="#fbbf24" letter-spacing="2">01</text>
+<text x="44" y="42" font-size="26" font-weight="800" fill="#e6edf3" letter-spacing="3">ABOUT</text>
+<text x="900" y="40" text-anchor="end" font-size="13" fill="#8b98a5">// who am i</text>
+<line x1="0" y1="58" x2="900" y2="58" stroke="#1f2a37" stroke-width="2"/>
+<line x1="0" y1="58" x2="120" y2="58" stroke="#22d3ee" stroke-width="2"/>
+<circle r="4" cy="58" fill="#22d3ee"><animate attributeName="cx" values="0;900;0" dur="8s" repeatCount="indefinite"/></circle>
+</svg>

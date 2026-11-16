@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f14"/><stop offset="1" stop-color="#0f1c26"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1f2a37" stroke-width="1"/></pattern>
+ <radialGradient id="glow" cx="0.78" cy="0.5" r="0.5"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="22" fill="url(#grid)" opacity="0.55"/>
+<rect width="1200" height="320" rx="22" fill="url(#glow)"/>
+<rect x="0" y="0" width="1200" height="3" fill="#22d3ee" opacity="0.12"><animate attributeName="y" values="0;320" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="1198" height="318" rx="21" fill="none" stroke="#1f2a37" stroke-width="2"/>
+<circle cx="70" cy="58" r="5" fill="#34d399"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="86" y="63" font-size="15" fill="#34d399" letter-spacing="2">ONLINE  //  ALEXANDRIA, EGYPT</text>
+<text x="70" y="140" font-size="19" fill="#fbbf24" letter-spacing="3">// AUTOMATION ENGINEER</text>
+<text x="70" y="205" font-size="66" font-weight="800" fill="url(#nm)" letter-spacing="2">ESLAM MUSTAFA</text>
+<text x="72" y="236" font-size="22" fill="#22d3ee">@LeaDer-E</text>
+<text x="70" y="258" font-size="21" fill="#8b98a5" opacity="0">Windows &amp; Linux Automation<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.000;0.020;0.220;0.250;1.000" dur="12s" repeatCount="indefinite"/></text><text x="70" y="258" font-size="21" fill="#8b98a5" opacity="0">C++17  ·  Qt 6  ·  Python<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.250;0.270;0.470;0.500;1.000" dur="12s" repeatCount="indefinite"/></text><text x="70" y="258" font-size="21" fill="#8b98a5" opacity="0">Scan-code &amp; USB HID Hardware<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.500;0.520;0.720;0.750;1.000" dur="12s" repeatCount="indefinite"/></text><text x="70" y="258" font-size="21" fill="#8b98a5" opacity="0">Bilingual RTL / LTR Tools<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0.000;0.750;0.770;0.970;1.000" dur="12s" repeatCount="indefinite"/></text>
+<g transform="translate(760,95)">
+  <rect x="0" y="14" width="112" height="104" rx="18" fill="#05080c" stroke="#1f2a37" stroke-width="2"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0;0 0" keyTimes="0;0.12;0.24;1" dur="3.6s" begin="0s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="112" height="104" rx="18" fill="#111821" stroke="#22d3ee" stroke-width="2"/>
+    <rect x="10" y="10" width="92" height="84" rx="12" fill="none" stroke="#1f2a37" stroke-width="1.5"/>
+    <text x="56" y="60" text-anchor="middle" font-size="26" font-weight="700" fill="#22d3ee" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">Ctrl</text>
+    <rect x="0" y="0" width="112" height="104" rx="18" fill="#22d3ee" opacity="0">
+      <animate attributeName="opacity" values="0;0.18;0;0" keyTimes="0;0.12;0.24;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></rect>
+  </g></g><g transform="translate(890,95)">
+  <rect x="0" y="14" width="112" height="104" rx="18" fill="#05080c" stroke="#1f2a37" stroke-width="2"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0;0 0" keyTimes="0;0.12;0.24;1" dur="3.6s" begin="0.45s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="112" height="104" rx="18" fill="#111821" stroke="#fbbf24" stroke-width="2"/>
+    <rect x="10" y="10" width="92" height="84" rx="12" fill="none" stroke="#1f2a37" stroke-width="1.5"/>
+    <text x="56" y="60" text-anchor="middle" font-size="26" font-weight="700" fill="#fbbf24" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">Alt</text>
+    <rect x="0" y="0" width="112" height="104" rx="18" fill="#fbbf24" opacity="0">
+      <animate attributeName="opacity" values="0;0.18;0;0" keyTimes="0;0.12;0.24;1" dur="3.6s" begin="0.45s" repeatCount="indefinite"/></rect>
+  </g></g><g transform="translate(1020,95)">
+  <rect x="0" y="14" width="112" height="104" rx="18" fill="#05080c" stroke="#1f2a37" stroke-width="2"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0;0 0" keyTimes="0;0.12;0.24;1" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="112" height="104" rx="18" fill="#111821" stroke="#34d399" stroke-width="2"/>
+    <rect x="10" y="10" width="92" height="84" rx="12" fill="none" stroke="#1f2a37" stroke-width="1.5"/>
+    <text x="56" y="60" text-anchor="middle" font-size="26" font-weight="700" fill="#34d399" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">V</text>
+    <rect x="0" y="0" width="112" height="104" rx="18" fill="#34d399" opacity="0">
+      <animate attributeName="opacity" values="0;0.18;0;0" keyTimes="0;0.12;0.24;1" dur="3.6s" begin="0.9s" repeatCount="indefinite"/></rect>
+  </g></g>
+</svg>

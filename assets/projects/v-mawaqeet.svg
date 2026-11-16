@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111821"/><stop offset="1" stop-color="#0d141c"/></linearGradient></defs>
+<rect x="1" y="1" width="438" height="198" rx="16" fill="url(#g)" stroke="#1f2a37" stroke-width="2"/>
+<rect x="1" y="24" width="5" height="60" rx="2.5" fill="#34d399"/>
+<rect x="28" y="18" width="80" height="22" rx="5" fill="#34d399" fill-opacity="0.12"/>
+<text x="68" y="33" text-anchor="middle" font-size="11" font-weight="700" fill="#34d399" letter-spacing="1.5">DESKTOP</text>
+<circle cx="412" cy="29" r="4" fill="#34d399"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="28" y="72" font-size="22" font-weight="800" fill="#e6edf3"><tspan fill="#34d399">&gt; </tspan>V-Mawaqeet</text>
+<text x="28" y="98" font-size="13" fill="#8b98a5">Bilingual prayer-times app with smart</text><text x="28" y="118" font-size="13" fill="#8b98a5">reminders, iqama alerts and 32+ themes.</text><rect x="28" y="160" width="64" height="24" rx="12" fill="none" stroke="#34d399" stroke-opacity="0.55"/><text x="60" y="176" text-anchor="middle" font-size="12" fill="#34d399">C++17</text><rect x="100.0" y="160" width="56" height="24" rx="12" fill="none" stroke="#34d399" stroke-opacity="0.55"/><text x="128" y="176" text-anchor="middle" font-size="12" fill="#34d399">Qt 6</text>
+<text x="412" y="177" text-anchor="end" font-size="18" fill="#34d399">↗</text>
+</svg>
